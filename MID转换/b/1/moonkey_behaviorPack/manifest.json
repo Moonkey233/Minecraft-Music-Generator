@@ -1,0 +1,25 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "1 designed by Moonkey_",
+        "name": "moonkey_behaviorPack",
+        "uuid": "31118476-fc54-f8f2-0021-b2ce504d1ada",
+        "version": [
+            0,
+            0,
+            1
+        ]
+    },
+    "modules": [
+        {
+            "description": "moonkey_behaviorPack",
+            "type": "data",
+            "uuid": "4743fd58-cd3f-90b8-0760-2c0fe7fc98ff",
+            "version": [
+                0,
+                0,
+                1
+            ]
+        }
+    ]
+}
