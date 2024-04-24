@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "93.Pad metallic 合成柔音-金属 ",
+    "description": "Pad metallic 合成柔音-金属 ",
+    "uuid": "7d5aaff0-d1c1-44d2-b7f5-7a41705ebf6c",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Pad metallic 合成柔音-金属 ",
+      "type": "resources",
+      "uuid": "b61ac898-ee51-436a-8e11-f13dcbc2372f",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

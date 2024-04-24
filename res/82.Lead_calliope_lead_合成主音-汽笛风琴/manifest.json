@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "82.Lead calliope lead 合成主音-汽笛风琴 ",
+    "description": "Lead calliope lead 合成主音-汽笛风琴 ",
+    "uuid": "bd98d2b9-f62e-4149-8410-04f80947117c",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Lead calliope lead 合成主音-汽笛风琴 ",
+      "type": "resources",
+      "uuid": "565e3e34-4024-4642-b064-6a297561ae9d",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

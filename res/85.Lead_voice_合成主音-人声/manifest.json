@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "85.Lead voice 合成主音-人声 ",
+    "description": "Lead voice 合成主音-人声 ",
+    "uuid": "9515ae61-5ef3-4060-b5ab-0716eb28aac6",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Lead voice 合成主音-人声 ",
+      "type": "resources",
+      "uuid": "ed9efdf4-0076-4dea-a292-7945c8b9d9f3",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

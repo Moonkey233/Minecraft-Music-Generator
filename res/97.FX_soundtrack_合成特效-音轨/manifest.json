@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "97.FX soundtrack 合成特效-音轨 ",
+    "description": "FX soundtrack 合成特效-音轨 ",
+    "uuid": "be14ec23-de61-4bf2-b33e-7e49f3a5a5d5",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "FX soundtrack 合成特效-音轨 ",
+      "type": "resources",
+      "uuid": "4fc6b9a1-0217-468d-89df-9d62f5318e8e",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "9.Glockenspiel ÷”«Ÿ ",
+    "description": "Glockenspiel ÷”«Ÿ ",
+    "uuid": "41b44d02-bed6-4c18-beea-ab55aa4c56f5",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Glockenspiel ÷”«Ÿ ",
+      "type": "resources",
+      "uuid": "85c7cc71-b621-4b83-a544-47fdd43751d8",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

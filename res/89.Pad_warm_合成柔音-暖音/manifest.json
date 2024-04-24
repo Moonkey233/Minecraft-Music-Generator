@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "89.Pad warm ∫œ≥…»·“Ù-≈Ø“Ù ",
+    "description": "Pad warm ∫œ≥…»·“Ù-≈Ø“Ù ",
+    "uuid": "92f67bf2-4f95-4554-8d46-5382df40396c",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Pad warm ∫œ≥…»·“Ù-≈Ø“Ù ",
+      "type": "resources",
+      "uuid": "b79cc3a4-1f9c-4b8e-a115-3ce10638377d",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

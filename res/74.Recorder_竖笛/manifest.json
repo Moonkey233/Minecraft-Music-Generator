@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "74.Recorder ส๚ตั ",
+    "description": "Recorder ส๚ตั ",
+    "uuid": "689f9004-4310-48ba-83da-61dd16aacad3",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Recorder ส๚ตั ",
+      "type": "resources",
+      "uuid": "19782048-2e48-4428-aa41-074c1f5e8dff",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

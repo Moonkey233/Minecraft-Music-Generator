@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "87.Lead bass+lead 合成主音-低音加主音 ",
+    "description": "Lead bass+lead 合成主音-低音加主音 ",
+    "uuid": "c207e98a-c2a6-49d0-878b-714e610ea64f",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Lead bass+lead 合成主音-低音加主音 ",
+      "type": "resources",
+      "uuid": "260f0996-86c4-40be-8ff3-3ff09db16ab9",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

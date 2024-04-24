@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "84.Lead charang 合成主音5-吉他 ",
+    "description": "Lead charang 合成主音5-吉他 ",
+    "uuid": "5636f86f-4427-4dca-9bbf-a1a3e1afaadd",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Lead charang 合成主音5-吉他 ",
+      "type": "resources",
+      "uuid": "b72db89f-349d-4dff-9156-9c48730d0b8e",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

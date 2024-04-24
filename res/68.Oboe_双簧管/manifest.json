@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "68.Oboe Ë«»É¹Ü ",
+    "description": "Oboe Ë«»É¹Ü ",
+    "uuid": "93129a29-19d3-4e6c-9a34-5e6dea652026",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Oboe Ë«»É¹Ü ",
+      "type": "resources",
+      "uuid": "6d8d764e-4d49-4546-9d05-da5cdaffa59a",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

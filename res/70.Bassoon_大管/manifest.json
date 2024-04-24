@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "70.Bassoon 大管 ",
+    "description": "Bassoon 大管 ",
+    "uuid": "ef114fc1-0c13-493f-a3d5-995f8be7e8ec",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Bassoon 大管 ",
+      "type": "resources",
+      "uuid": "9079a87d-25ee-49a8-9a1b-5d4f0990e3e3",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

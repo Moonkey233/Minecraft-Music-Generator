@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "92.Pad bowed ∫œ≥…»·“Ù-π≠œ“ ",
+    "description": "Pad bowed ∫œ≥…»·“Ù-π≠œ“ ",
+    "uuid": "98ce1ee9-edb1-45cb-a4cb-9819488b9e01",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Pad bowed ∫œ≥…»·“Ù-π≠œ“ ",
+      "type": "resources",
+      "uuid": "e85ca694-016f-4904-8fcf-6b32c2155834",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

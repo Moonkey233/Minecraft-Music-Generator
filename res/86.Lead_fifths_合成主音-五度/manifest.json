@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "86.Lead fifths 合成主音-五度 ",
+    "description": "Lead fifths 合成主音-五度 ",
+    "uuid": "ab7e63cd-9803-41ae-97c3-952eba61b1c2",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Lead fifths 合成主音-五度 ",
+      "type": "resources",
+      "uuid": "431089c6-bf71-436c-a9e5-312deda05753",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

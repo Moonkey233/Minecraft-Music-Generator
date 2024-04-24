@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "94.Pad halo 合成柔音-光环 ",
+    "description": "Pad halo 合成柔音-光环 ",
+    "uuid": "f0c431c8-b41e-4bab-887b-a4a8dc2b6f81",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Pad halo 合成柔音-光环 ",
+      "type": "resources",
+      "uuid": "cdacd4e8-6e12-47ac-b6bf-b95ee8b3cc89",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

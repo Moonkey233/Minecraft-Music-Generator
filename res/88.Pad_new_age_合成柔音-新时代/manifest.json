@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "88.Pad new age 合成柔音-新时代 ",
+    "description": "Pad new age 合成柔音-新时代 ",
+    "uuid": "dd0bfc06-b7ef-4a14-b783-82cc520f0c22",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Pad new age 合成柔音-新时代 ",
+      "type": "resources",
+      "uuid": "391fad0a-2f82-4afe-957e-b8bc54fd88fd",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

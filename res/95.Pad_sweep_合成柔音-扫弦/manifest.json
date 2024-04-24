@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "95.Pad sweep ∫œ≥…»·“Ù-…®œ“ ",
+    "description": "Pad sweep ∫œ≥…»·“Ù-…®œ“ ",
+    "uuid": "cb5e283c-b106-4cb5-850a-10cb5c7308ed",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Pad sweep ∫œ≥…»·“Ù-…®œ“ ",
+      "type": "resources",
+      "uuid": "aa5886e6-e792-4fec-9353-47f98e137e18",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

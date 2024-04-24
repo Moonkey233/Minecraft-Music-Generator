@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "78.Whistle из ",
+    "description": "Whistle из ",
+    "uuid": "56308ed3-d43e-4f93-80df-5a52c1817a99",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Whistle из ",
+      "type": "resources",
+      "uuid": "b7af8e94-dca4-4815-9734-11c96606e114",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

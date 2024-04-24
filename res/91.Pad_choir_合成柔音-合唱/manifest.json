@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "91.Pad choir 合成柔音-合唱 ",
+    "description": "Pad choir 合成柔音-合唱 ",
+    "uuid": "80ccdcd8-cf9f-4767-9951-22c329dfe37f",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Pad choir 合成柔音-合唱 ",
+      "type": "resources",
+      "uuid": "052abc73-62a4-4b38-9f0e-dc465a24716e",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

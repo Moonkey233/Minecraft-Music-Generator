@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "98.FX crystal 合成特效-水晶 ",
+    "description": "FX crystal 合成特效-水晶 ",
+    "uuid": "e25b7099-90b9-48a9-9982-e6dc2a19cbdd",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "FX crystal 合成特效-水晶 ",
+      "type": "resources",
+      "uuid": "bb39f620-6ecf-45ce-8a84-0177994b997c",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

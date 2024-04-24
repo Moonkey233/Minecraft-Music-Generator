@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "72.Piccolo ถฬตั ",
+    "description": "Piccolo ถฬตั ",
+    "uuid": "4f34644e-b529-40e8-92cf-198f397dc217",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Piccolo ถฬตั ",
+      "type": "resources",
+      "uuid": "2a11d65a-17ae-4c7a-b1bd-f4d7ded27421",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

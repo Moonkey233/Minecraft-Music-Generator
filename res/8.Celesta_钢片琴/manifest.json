@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "8.Celesta ¸ÖÆ¬ÇÙ ",
+    "description": "Celesta ¸ÖÆ¬ÇÙ ",
+    "uuid": "1a212b4e-0c2c-4b99-ae5e-e79166faba72",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Celesta ¸ÖÆ¬ÇÙ ",
+      "type": "resources",
+      "uuid": "d0a0f273-3100-44c7-8c47-9dd2fb8f01e5",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

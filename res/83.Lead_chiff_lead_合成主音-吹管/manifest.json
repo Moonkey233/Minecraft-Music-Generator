@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "83.Lead chiff lead 合成主音-吹管 ",
+    "description": "Lead chiff lead 合成主音-吹管 ",
+    "uuid": "78f0811e-c497-4d60-a096-6dfbd53dd5d1",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Lead chiff lead 合成主音-吹管 ",
+      "type": "resources",
+      "uuid": "f6db0f97-e38d-4fca-aabc-664712107d3f",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

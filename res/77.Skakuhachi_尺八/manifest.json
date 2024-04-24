@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "77.Skakuhachi ³ß°Ë ",
+    "description": "Skakuhachi ³ß°Ë ",
+    "uuid": "ceed30f6-2f30-4881-9533-bce5a9a9627f",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Skakuhachi ³ß°Ë ",
+      "type": "resources",
+      "uuid": "3ca3bc83-3f5f-4ff5-bf5a-c76e5ad190a9",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

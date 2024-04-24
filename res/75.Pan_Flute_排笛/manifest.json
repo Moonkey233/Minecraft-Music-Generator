@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "75.Pan Flute ее╣я ",
+    "description": "Pan Flute ее╣я ",
+    "uuid": "77356a45-d917-49e6-8a0f-8ae2c16b3f58",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Pan Flute ее╣я ",
+      "type": "resources",
+      "uuid": "eb342dbf-ca85-4a11-8aa3-91490eeeca0e",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

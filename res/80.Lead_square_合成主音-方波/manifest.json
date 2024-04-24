@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "80.Lead square 合成主音-方波 ",
+    "description": "Lead square 合成主音-方波 ",
+    "uuid": "41135175-1e4c-4c82-8e0a-dceca1d4e926",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Lead square 合成主音-方波 ",
+      "type": "resources",
+      "uuid": "d6965de6-9a64-4bc1-bbc8-c8bbc0483425",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

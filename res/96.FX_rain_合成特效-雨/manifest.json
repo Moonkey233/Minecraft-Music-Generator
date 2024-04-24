@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "96.FX rain 合成特效-雨 ",
+    "description": "FX rain 合成特效-雨 ",
+    "uuid": "b62ad7af-5604-4cb0-a934-df4a06c48da6",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "FX rain 合成特效-雨 ",
+      "type": "resources",
+      "uuid": "b6132421-8c17-4245-945d-5675344d7a2e",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

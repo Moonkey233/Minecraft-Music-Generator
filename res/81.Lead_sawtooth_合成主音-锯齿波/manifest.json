@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "81.Lead sawtooth 合成主音-锯齿波 ",
+    "description": "Lead sawtooth 合成主音-锯齿波 ",
+    "uuid": "1f7f65c4-122c-494a-81b3-8618dbdb2c43",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Lead sawtooth 合成主音-锯齿波 ",
+      "type": "resources",
+      "uuid": "012ee953-5259-43da-bda6-e956802e5571",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

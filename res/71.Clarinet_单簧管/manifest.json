@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "71.Clarinet 单簧管 ",
+    "description": "Clarinet 单簧管 ",
+    "uuid": "222aed8a-ae29-4100-9e47-91482272ddd0",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Clarinet 单簧管 ",
+      "type": "resources",
+      "uuid": "83d2bbcd-c2aa-4cf5-8c81-ad1179f5d9b5",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "99.FX atmosphere 合成特效-大气 ",
+    "description": "FX atmosphere 合成特效-大气 ",
+    "uuid": "f7e92cf6-45eb-4ae4-890d-a052292df828",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "FX atmosphere 合成特效-大气 ",
+      "type": "resources",
+      "uuid": "6fa6a26c-40aa-4e05-837d-c7f066772415",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

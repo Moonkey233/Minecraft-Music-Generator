@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "90.Pad polysynth 合成柔音-复合成 ",
+    "description": "Pad polysynth 合成柔音-复合成 ",
+    "uuid": "4d806321-d80c-4f36-9c69-3b3cd54e5e58",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Pad polysynth 合成柔音-复合成 ",
+      "type": "resources",
+      "uuid": "bf42ce76-4942-4cdc-836f-28ebd671d5e8",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "7.Clavinet »÷ÏÒ¹Å¸ÖÇÙ ",
+    "description": "Clavinet »÷ÏÒ¹Å¸ÖÇÙ ",
+    "uuid": "fad8b7eb-6aeb-449d-bc40-f8e67b7c0b8a",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Clavinet »÷ÏÒ¹Å¸ÖÇÙ ",
+      "type": "resources",
+      "uuid": "660bd240-cabf-41de-8cfd-744ca395cfc6",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}
