@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "112.Tinkle Bell Беох ",
+    "description": "Tinkle Bell Беох ",
+    "uuid": "e4453bf5-9701-46c0-a413-c96343c07544",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Tinkle Bell Беох ",
+      "type": "resources",
+      "uuid": "32f43044-60d5-4520-8655-c687776d81e2",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

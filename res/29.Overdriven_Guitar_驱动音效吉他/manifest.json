@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "29.Overdriven Guitar 驱动音效吉他 ",
+    "description": "Overdriven Guitar 驱动音效吉他 ",
+    "uuid": "52ec8c41-3ed0-4c67-8822-ecce2648b4e4",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Overdriven Guitar 驱动音效吉他 ",
+      "type": "resources",
+      "uuid": "b570de57-bf4f-4bf1-9a19-494eaa84977d",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

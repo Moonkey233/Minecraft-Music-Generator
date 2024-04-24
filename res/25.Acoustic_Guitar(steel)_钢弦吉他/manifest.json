@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "25.Acoustic Guitar(steel) ¸ÖÏÒ¼ªËû ",
+    "description": "Acoustic Guitar(steel) ¸ÖÏÒ¼ªËû ",
+    "uuid": "714e60ea-fb39-49d2-954b-c37f5f44ce25",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Acoustic Guitar(steel) ¸ÖÏÒ¼ªËû ",
+      "type": "resources",
+      "uuid": "9ed9442c-a8b1-4ff3-9c71-e26285f3fa6b",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

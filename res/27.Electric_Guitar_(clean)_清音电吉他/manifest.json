@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "27.Electric Guitar (clean) 清音电吉他 ",
+    "description": "Electric Guitar (clean) 清音电吉他 ",
+    "uuid": "edd95f59-35d0-42ac-bce9-cf221fd6fde2",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Electric Guitar (clean) 清音电吉他 ",
+      "type": "resources",
+      "uuid": "ef039669-ea8a-4584-88c9-dce93d202418",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

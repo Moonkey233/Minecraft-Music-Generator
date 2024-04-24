@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "0.Acoustic Grand Piano ´ó¸ÖÇÙ ",
+    "description": "Acoustic Grand Piano ´ó¸ÖÇÙ ",
+    "uuid": "e2b09e91-6e14-4d55-9532-a3b83311c88a",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Acoustic Grand Piano ´ó¸ÖÇÙ ",
+      "type": "resources",
+      "uuid": "439fa8a4-251c-4ec3-88dd-0a912bd0d2d1",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

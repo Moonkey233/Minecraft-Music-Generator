@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "107.Koto Û› ",
+    "description": "Koto Û› ",
+    "uuid": "38180138-945d-4598-b6b5-5081ea9f15d5",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Koto Û› ",
+      "type": "resources",
+      "uuid": "9d4469cf-4503-4f09-abb9-f1f0f0c0e5b7",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "21.Accordion 手风琴 ",
+    "description": "Accordion 手风琴 ",
+    "uuid": "334aae3f-ceb6-4416-9764-cc5ccd353352",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Accordion 手风琴 ",
+      "type": "resources",
+      "uuid": "89e99b62-2936-414a-980a-9cc1b3959919",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

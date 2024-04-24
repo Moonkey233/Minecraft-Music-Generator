@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "103.FX sci-fi 合成特效-科幻 ",
+    "description": "FX sci-fi 合成特效-科幻 ",
+    "uuid": "c31700ac-96da-4c1e-b904-10a90a56f636",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "FX sci-fi 合成特效-科幻 ",
+      "type": "resources",
+      "uuid": "055e109b-7074-431e-affe-d6d2d3b0a6bc",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

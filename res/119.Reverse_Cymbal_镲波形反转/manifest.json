@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "119.Reverse Cymbal 镲波形反转 ",
+    "description": "Reverse Cymbal 镲波形反转 ",
+    "uuid": "9325a877-989d-4525-a0e1-bf9960b936f8",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Reverse Cymbal 镲波形反转 ",
+      "type": "resources",
+      "uuid": "94762fcf-e977-484c-84f4-1fb56599419a",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

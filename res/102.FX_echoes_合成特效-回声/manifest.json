@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "102.FX echoes 合成特效-回声 ",
+    "description": "FX echoes 合成特效-回声 ",
+    "uuid": "a53cd4de-fbeb-4ecb-b55f-d3db6abc26fe",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "FX echoes 合成特效-回声 ",
+      "type": "resources",
+      "uuid": "c2b68e54-0845-48a0-8f6d-55b7d11905f9",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

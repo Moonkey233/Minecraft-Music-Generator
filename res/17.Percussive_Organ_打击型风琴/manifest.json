@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "17.Percussive Organ 打击型风琴 ",
+    "description": "Percussive Organ 打击型风琴 ",
+    "uuid": "1db360cf-9b92-4b45-a0f7-a715c9e3fbf9",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Percussive Organ 打击型风琴 ",
+      "type": "resources",
+      "uuid": "324daa56-018f-42b8-8477-790038ea5bd5",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

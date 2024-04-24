@@ -1,0 +1,2306 @@
+{
+    "1c.0": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/0",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.1": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/1",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.2": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/2",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.3": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/3",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.4": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/4",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.5": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/5",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.6": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/6",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.7": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/7",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.8": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/8",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.9": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/9",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.10": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/10",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.11": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/11",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.12": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/12",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.13": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/13",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.14": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/14",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.15": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/15",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.16": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/16",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.17": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/17",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.18": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/18",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.19": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/19",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.20": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/20",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.21": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/21",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.22": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/22",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.23": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/23",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.24": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/24",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.25": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/25",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.26": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/26",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.27": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/27",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.28": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/28",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.29": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/29",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.30": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/30",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.31": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/31",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.32": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/32",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.33": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/33",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.34": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/34",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.35": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/35",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.36": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/36",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.37": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/37",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.38": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/38",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.39": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/39",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.40": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/40",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.41": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/41",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.42": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/42",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.43": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/43",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.44": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/44",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.45": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/45",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.46": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/46",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.47": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/47",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.48": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/48",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.49": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/49",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.50": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/50",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.51": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/51",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.52": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/52",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.53": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/53",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.54": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/54",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.55": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/55",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.56": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/56",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.57": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/57",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.58": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/58",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.59": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/59",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.60": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/60",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.61": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/61",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.62": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/62",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.63": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/63",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.64": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/64",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.65": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/65",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.66": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/66",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.67": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/67",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.68": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/68",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.69": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/69",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.70": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/70",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.71": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/71",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.72": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/72",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.73": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/73",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.74": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/74",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.75": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/75",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.76": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/76",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.77": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/77",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.78": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/78",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.79": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/79",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.80": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/80",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.81": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/81",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.82": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/82",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.83": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/83",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.84": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/84",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.85": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/85",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.86": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/86",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.87": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/87",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.88": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/88",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.89": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/89",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.90": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/90",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.91": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/91",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.92": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/92",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.93": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/93",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.94": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/94",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.95": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/95",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.96": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/96",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.97": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/97",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.98": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/98",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.99": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/99",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.100": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/100",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.101": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/101",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.102": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/102",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.103": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/103",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.104": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/104",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.105": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/105",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.106": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/106",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.107": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/107",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.108": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/108",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.109": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/109",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.110": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/110",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.111": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/111",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.112": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/112",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.113": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/113",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.114": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/114",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.115": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/115",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.116": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/116",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.117": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/117",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.118": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/118",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.119": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/119",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.120": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/120",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.121": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/121",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.122": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/122",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.123": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/123",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.124": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/124",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.125": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/125",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.126": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/126",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1c.127": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/c/127",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.0": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/0",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.1": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/1",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.2": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/2",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.3": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/3",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.4": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/4",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.5": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/5",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.6": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/6",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.7": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/7",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.8": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/8",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.9": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/9",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.10": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/10",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.11": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/11",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.12": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/12",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.13": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/13",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.14": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/14",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.15": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/15",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.16": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/16",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.17": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/17",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.18": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/18",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.19": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/19",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.20": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/20",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.21": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/21",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.22": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/22",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.23": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/23",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.24": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/24",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.25": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/25",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.26": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/26",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.27": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/27",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.28": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/28",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.29": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/29",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.30": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/30",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.31": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/31",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.32": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/32",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.33": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/33",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.34": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/34",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.35": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/35",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.36": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/36",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.37": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/37",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.38": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/38",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.39": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/39",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.40": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/40",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.41": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/41",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.42": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/42",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.43": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/43",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.44": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/44",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.45": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/45",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.46": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/46",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.47": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/47",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.48": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/48",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.49": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/49",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.50": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/50",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.51": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/51",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.52": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/52",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.53": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/53",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.54": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/54",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.55": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/55",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.56": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/56",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.57": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/57",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.58": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/58",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.59": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/59",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.60": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/60",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.61": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/61",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.62": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/62",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.63": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/63",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.64": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/64",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.65": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/65",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.66": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/66",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.67": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/67",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.68": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/68",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.69": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/69",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.70": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/70",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.71": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/71",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.72": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/72",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.73": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/73",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.74": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/74",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.75": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/75",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.76": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/76",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.77": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/77",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.78": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/78",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.79": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/79",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.80": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/80",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.81": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/81",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.82": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/82",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.83": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/83",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.84": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/84",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.85": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/85",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.86": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/86",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.87": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/87",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.88": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/88",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.89": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/89",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.90": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/90",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.91": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/91",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.92": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/92",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.93": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/93",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.94": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/94",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.95": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/95",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.96": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/96",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.97": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/97",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.98": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/98",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.99": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/99",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.100": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/100",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.101": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/101",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.102": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/102",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.103": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/103",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.104": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/104",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.105": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/105",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.106": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/106",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.107": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/107",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.108": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/108",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.109": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/109",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.110": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/110",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.111": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/111",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.112": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/112",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.113": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/113",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.114": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/114",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.115": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/115",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.116": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/116",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.117": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/117",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.118": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/118",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.119": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/119",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.120": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/120",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.121": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/121",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.122": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/122",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.123": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/123",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.124": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/124",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.125": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/125",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.126": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/126",
+                "load_on_low_memory": true
+            }
+        ]
+    },
+    "1d.127": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/kami/1/d/127",
+                "load_on_low_memory": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "100.FX brightness 合成特效-亮音 ",
+    "description": "FX brightness 合成特效-亮音 ",
+    "uuid": "2ca3f08e-1a0e-4f66-80d0-03411fc05cda",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "FX brightness 合成特效-亮音 ",
+      "type": "resources",
+      "uuid": "bdd2140f-7c0f-426e-82ae-53d65daa02f6",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

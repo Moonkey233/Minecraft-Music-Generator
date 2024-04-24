@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "106.Shamisen 三味线 ",
+    "description": "Shamisen 三味线 ",
+    "uuid": "b62ce65d-6382-4280-bd21-f65779668f60",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Shamisen 三味线 ",
+      "type": "resources",
+      "uuid": "6a6a2c2b-67b5-4ea8-955e-a4637317ff7c",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

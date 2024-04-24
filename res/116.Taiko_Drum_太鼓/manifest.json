@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "116.Taiko Drum Ì«¹Ä ",
+    "description": "Taiko Drum Ì«¹Ä ",
+    "uuid": "d5954501-c6cc-42a3-8a8a-9e38f17993f8",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Taiko Drum Ì«¹Ä ",
+      "type": "resources",
+      "uuid": "85653e87-1d16-4194-8df5-6555d9e7c431",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

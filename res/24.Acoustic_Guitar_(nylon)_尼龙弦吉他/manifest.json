@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "24.Acoustic Guitar (nylon) ÄáÁúÏÒ¼ªËû ",
+    "description": "Acoustic Guitar (nylon) ÄáÁúÏÒ¼ªËû ",
+    "uuid": "b5addb17-a2d8-420a-86ae-394e64b0d1b2",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Acoustic Guitar (nylon) ÄáÁúÏÒ¼ªËû ",
+      "type": "resources",
+      "uuid": "03b3f77e-1fa8-4063-8cbe-26d629672063",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "23.Tango Accordian 探戈手风琴 ",
+    "description": "Tango Accordian 探戈手风琴 ",
+    "uuid": "964c23d2-d41c-452a-bd3d-5c0557cb9947",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Tango Accordian 探戈手风琴 ",
+      "type": "resources",
+      "uuid": "b7494513-d3fe-4ec1-8f27-5f9482d961a3",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

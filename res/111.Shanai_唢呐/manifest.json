@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "111.Shanai ßïÄÅ ",
+    "description": "Shanai ßïÄÅ ",
+    "uuid": "b73ecdaa-b74d-4b0d-8974-1134b19b49aa",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Shanai ßïÄÅ ",
+      "type": "resources",
+      "uuid": "baa0f6f1-efe4-485a-99c6-6c3f3ae820ee",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

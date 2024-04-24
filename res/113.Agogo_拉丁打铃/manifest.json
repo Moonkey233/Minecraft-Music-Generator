@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "113.Agogo 拉丁打铃 ",
+    "description": "Agogo 拉丁打铃 ",
+    "uuid": "4fa32ade-a8a8-4fac-8aef-eb6abc948bfa",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Agogo 拉丁打铃 ",
+      "type": "resources",
+      "uuid": "995fc4d0-7644-4840-b9c2-7747aadaabe4",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

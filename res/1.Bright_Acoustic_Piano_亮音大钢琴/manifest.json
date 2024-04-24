@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "1.Bright Acoustic Piano ¡¡“Ù¥Û∏÷«Ÿ ",
+    "description": "Bright Acoustic Piano ¡¡“Ù¥Û∏÷«Ÿ ",
+    "uuid": "c42de501-a21e-4d29-8256-f84aa04f1730",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Bright Acoustic Piano ¡¡“Ù¥Û∏÷«Ÿ ",
+      "type": "resources",
+      "uuid": "07108830-9731-4d99-9237-b682d76a0471",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

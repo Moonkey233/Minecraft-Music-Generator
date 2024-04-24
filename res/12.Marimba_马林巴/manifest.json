@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "12.Marimba 马林巴 ",
+    "description": "Marimba 马林巴 ",
+    "uuid": "4c74b07e-dca0-4277-94e0-8974639036a8",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Marimba 马林巴 ",
+      "type": "resources",
+      "uuid": "27b7a42b-ff42-4ad6-90ec-0983f6372f70",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

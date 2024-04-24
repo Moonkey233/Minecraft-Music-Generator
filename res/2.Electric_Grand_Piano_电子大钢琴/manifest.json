@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "2.Electric Grand Piano 电子大钢琴 ",
+    "description": "Electric Grand Piano 电子大钢琴 ",
+    "uuid": "82bf1cc2-89aa-4c16-a524-1afa8b393ba7",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Electric Grand Piano 电子大钢琴 ",
+      "type": "resources",
+      "uuid": "b56fde9f-0014-4a4d-a4c5-73773b30019a",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

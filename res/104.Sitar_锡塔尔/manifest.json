@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "104.Sitar ÎýËþ¶û ",
+    "description": "Sitar ÎýËþ¶û ",
+    "uuid": "b38d554b-84f3-414d-b65f-f94edd56eff6",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Sitar ÎýËþ¶û ",
+      "type": "resources",
+      "uuid": "e1d36ff3-bd3d-4c4a-8dc0-6f147e0e8215",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

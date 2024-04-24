@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "118.Synth Drum 合成鼓 ",
+    "description": "Synth Drum 合成鼓 ",
+    "uuid": "45667b7b-1c66-4d6e-a035-9e7790b1fac8",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Synth Drum 合成鼓 ",
+      "type": "resources",
+      "uuid": "fb8fa1ad-9ede-48b2-a6bd-a548f51e46cd",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

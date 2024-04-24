@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "109.Bagpipe 루둘 ",
+    "description": "Bagpipe 루둘 ",
+    "uuid": "44bec454-ae98-4b5f-b2ba-5e84f59dfddb",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Bagpipe 루둘 ",
+      "type": "resources",
+      "uuid": "510ee19b-9e5b-4d2e-923a-04f4b30a47f7",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

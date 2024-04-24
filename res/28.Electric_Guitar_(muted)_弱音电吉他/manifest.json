@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "28.Electric Guitar (muted) 弱音电吉他 ",
+    "description": "Electric Guitar (muted) 弱音电吉他 ",
+    "uuid": "09324896-351f-4ac8-80d2-261ad645726b",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Electric Guitar (muted) 弱音电吉他 ",
+      "type": "resources",
+      "uuid": "20a14ba2-9558-4528-9a1a-f8efee6d4642",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "114.Steel Drums ¸Ö¹Ä ",
+    "description": "Steel Drums ¸Ö¹Ä ",
+    "uuid": "872cf3cb-5647-4b3e-bbac-b256d98a5a09",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Steel Drums ¸Ö¹Ä ",
+      "type": "resources",
+      "uuid": "8eaeabf6-ff1d-4a84-825c-f5a546118379",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

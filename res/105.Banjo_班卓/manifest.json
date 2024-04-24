@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "105.Banjo °à×¿ ",
+    "description": "Banjo °à×¿ ",
+    "uuid": "65301da6-dad4-4ad4-9ee2-9ffbf14e916d",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Banjo °à×¿ ",
+      "type": "resources",
+      "uuid": "d8d9e30d-d8cb-4882-99a3-c1730254e1aa",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

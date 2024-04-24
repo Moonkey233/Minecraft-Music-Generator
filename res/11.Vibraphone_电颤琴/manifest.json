@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "11.Vibraphone µç²üÇÙ ",
+    "description": "Vibraphone µç²üÇÙ ",
+    "uuid": "e749a1cf-2e7d-4d62-87a8-8da7abcb893e",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Vibraphone µç²üÇÙ ",
+      "type": "resources",
+      "uuid": "57addea5-aec1-40d7-8b3e-2fd303b1a8a2",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "15.Dulcimer —Ô«Ÿ ",
+    "description": "Dulcimer —Ô«Ÿ ",
+    "uuid": "4ebbb2fc-3f0c-4dc3-8bcf-a24c38b62c4c",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Dulcimer —Ô«Ÿ ",
+      "type": "resources",
+      "uuid": "332ae77b-7427-419a-9e78-51b9bf4b1845",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "101.FX goblins 合成特效-小妖 ",
+    "description": "FX goblins 合成特效-小妖 ",
+    "uuid": "c79eda93-4ebd-4291-80a8-1ca4369a4479",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "FX goblins 合成特效-小妖 ",
+      "type": "resources",
+      "uuid": "c2186055-da54-47f2-913d-5eeecb8535b1",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

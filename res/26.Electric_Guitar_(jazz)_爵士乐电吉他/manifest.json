@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "26.Electric Guitar (jazz) 爵士乐电吉他 ",
+    "description": "Electric Guitar (jazz) 爵士乐电吉他 ",
+    "uuid": "7707d887-fa56-48a7-a793-62531059d1e1",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Electric Guitar (jazz) 爵士乐电吉他 ",
+      "type": "resources",
+      "uuid": "4e1cd386-0af1-4da0-a02a-03a42dc3c696",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

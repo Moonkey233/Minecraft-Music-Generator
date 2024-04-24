@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "10.Music Box ∞À“Ù∫– ",
+    "description": "Music Box ∞À“Ù∫– ",
+    "uuid": "7e412023-eb00-4afe-a7ba-d844496ec50f",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Music Box ∞À“Ù∫– ",
+      "type": "resources",
+      "uuid": "7643b911-2470-419d-80c6-dbd9be8e572a",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}
