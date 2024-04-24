@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "38.Synth Bass A 合成贝司A ",
+    "description": "Synth Bass A 合成贝司A ",
+    "uuid": "9b070982-2c59-4fc1-8075-aa6dc8e38918",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Synth Bass A 合成贝司A ",
+      "type": "resources",
+      "uuid": "f405cf66-a09c-4a86-a4e6-1e0f7f547da6",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

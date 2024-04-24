@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "52.Choir Aahs ºÏ³ª¡°°¡¡±Òô ",
+    "description": "Choir Aahs ºÏ³ª¡°°¡¡±Òô ",
+    "uuid": "72a1b237-666b-4f29-a5d4-de784afc7301",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Choir Aahs ºÏ³ª¡°°¡¡±Òô ",
+      "type": "resources",
+      "uuid": "64ee94a7-4b83-49e1-902c-631ec3e2c01c",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

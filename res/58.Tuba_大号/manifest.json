@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "58.Tuba ´óºÅ ",
+    "description": "Tuba ´óºÅ ",
+    "uuid": "b5c5e468-484e-4ef6-8045-f138eb7704a6",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Tuba ´óºÅ ",
+      "type": "resources",
+      "uuid": "19f65abf-555a-4aa0-b9d5-0e4d50957527",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

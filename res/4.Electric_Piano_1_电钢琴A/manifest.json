@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "4.Electric Piano 1 µç¸ÖÇÙA ",
+    "description": "Electric Piano 1 µç¸ÖÇÙA ",
+    "uuid": "02351e79-c40a-4d83-ae77-98f370f86cb0",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Electric Piano 1 µç¸ÖÇÙA ",
+      "type": "resources",
+      "uuid": "5a1caf36-8059-4c5e-9e99-6d9d7e3fdb70",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

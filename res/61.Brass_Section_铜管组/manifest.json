@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "61.Brass Section 铜管组 ",
+    "description": "Brass Section 铜管组 ",
+    "uuid": "3c8017c2-f018-4fce-aa6b-3691fe4f2cf0",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Brass Section 铜管组 ",
+      "type": "resources",
+      "uuid": "562cdc2a-d4ec-4045-af3d-b4fa45ca93fa",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

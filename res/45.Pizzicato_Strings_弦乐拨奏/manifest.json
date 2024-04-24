@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "45.Pizzicato Strings œ“¿÷≤¶◊‡ ",
+    "description": "Pizzicato Strings œ“¿÷≤¶◊‡ ",
+    "uuid": "7bd00db5-d4f4-472b-8d80-0911e0abe1f4",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Pizzicato Strings œ“¿÷≤¶◊‡ ",
+      "type": "resources",
+      "uuid": "9a59b300-817e-4da5-8926-d5058ad0292f",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

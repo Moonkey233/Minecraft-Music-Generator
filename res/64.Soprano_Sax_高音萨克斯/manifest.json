@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "64.Soprano Sax 高音萨克斯 ",
+    "description": "Soprano Sax 高音萨克斯 ",
+    "uuid": "6f6b9b84-b630-4bc0-a325-8c5004bbfd40",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Soprano Sax 高音萨克斯 ",
+      "type": "resources",
+      "uuid": "7a2e6fd9-81c1-4af0-a30e-f80113174154",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "56.Trumpet Ð¡ºÅ ",
+    "description": "Trumpet Ð¡ºÅ ",
+    "uuid": "9befe3f7-c319-4ee9-8481-9dbb54b3e2bd",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Trumpet Ð¡ºÅ ",
+      "type": "resources",
+      "uuid": "bfc3942a-866c-45bd-a1d2-c93efb71f68a",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

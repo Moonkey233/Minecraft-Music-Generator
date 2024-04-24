@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "43.Contrabass µÕ“ÙÃ·«Ÿ ",
+    "description": "Contrabass µÕ“ÙÃ·«Ÿ ",
+    "uuid": "9a4ded98-ad82-4b66-9377-8479b721f2d4",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Contrabass µÕ“ÙÃ·«Ÿ ",
+      "type": "resources",
+      "uuid": "2de7c276-b542-40fb-b092-b77351fedbca",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

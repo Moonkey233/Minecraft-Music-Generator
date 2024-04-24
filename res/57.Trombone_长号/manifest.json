@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "57.Trombone ³¤ºÅ ",
+    "description": "Trombone ³¤ºÅ ",
+    "uuid": "e086858b-b287-473a-8621-3cb62b2417ab",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Trombone ³¤ºÅ ",
+      "type": "resources",
+      "uuid": "307315bc-a4f5-473a-8270-51d9702905e6",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

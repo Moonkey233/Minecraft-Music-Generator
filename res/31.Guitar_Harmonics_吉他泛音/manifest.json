@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "31.Guitar Harmonics ¼ªËû·ºÒô ",
+    "description": "Guitar Harmonics ¼ªËû·ºÒô ",
+    "uuid": "7725dfcc-6a5f-49b0-af76-7ece44f25f3d",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Guitar Harmonics ¼ªËû·ºÒô ",
+      "type": "resources",
+      "uuid": "f8105e05-8a3e-4be9-8966-ab021d764309",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

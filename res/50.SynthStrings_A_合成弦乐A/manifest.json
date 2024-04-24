@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "50.SynthStrings A 合成弦乐A ",
+    "description": "SynthStrings A 合成弦乐A ",
+    "uuid": "bc3d810b-0bfa-483c-a9dd-10ca3f9431cf",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "SynthStrings A 合成弦乐A ",
+      "type": "resources",
+      "uuid": "f34124e1-1832-466f-9f7c-257a74aebdfd",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

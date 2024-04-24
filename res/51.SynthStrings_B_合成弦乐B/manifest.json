@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "51.SynthStrings B 合成弦乐B ",
+    "description": "SynthStrings B 合成弦乐B ",
+    "uuid": "b6cbe209-3430-4c5e-ae0c-dc696e7dcda2",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "SynthStrings B 合成弦乐B ",
+      "type": "resources",
+      "uuid": "f4e62ae6-1fc6-4bb0-aaa7-6637fca5c76e",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "35.Fretless Bass 无品贝司 ",
+    "description": "Fretless Bass 无品贝司 ",
+    "uuid": "a1863421-cefe-4837-be8a-ed84021b8774",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Fretless Bass 无品贝司 ",
+      "type": "resources",
+      "uuid": "abc150da-b4fe-4093-826c-b66baaedd7c5",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

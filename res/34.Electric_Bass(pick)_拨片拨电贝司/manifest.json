@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "34.Electric Bass(pick) ²¦Æ¬²¦µç±´Ë¾ ",
+    "description": "Electric Bass(pick) ²¦Æ¬²¦µç±´Ë¾ ",
+    "uuid": "2aed7f24-a6ce-4de3-a1eb-b0f266e0f6d6",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Electric Bass(pick) ²¦Æ¬²¦µç±´Ë¾ ",
+      "type": "resources",
+      "uuid": "3bc377b1-19d5-4ef3-b4d9-0c04fb596286",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "36.Slap Bass A »÷ÏÒ±´Ë¾A ",
+    "description": "Slap Bass A »÷ÏÒ±´Ë¾A ",
+    "uuid": "423053f5-acce-497a-8a30-74e20f6271e9",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Slap Bass A »÷ÏÒ±´Ë¾A ",
+      "type": "resources",
+      "uuid": "c143eb45-824c-4d47-9261-2864da2de549",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

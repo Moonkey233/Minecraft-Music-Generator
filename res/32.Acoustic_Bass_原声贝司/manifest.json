@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "32.Acoustic Bass 原声贝司 ",
+    "description": "Acoustic Bass 原声贝司 ",
+    "uuid": "c0f8276d-6699-4b8c-b76e-18d5e4c49d86",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Acoustic Bass 原声贝司 ",
+      "type": "resources",
+      "uuid": "9bb61605-a41f-42e3-bbde-14dacb413617",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "63.Synth Brass A 合成铜管B ",
+    "description": "Synth Brass A 合成铜管B ",
+    "uuid": "542cced0-25f8-4add-a150-d18c5f0c3a2c",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Synth Brass A 合成铜管B ",
+      "type": "resources",
+      "uuid": "9a425dd0-b08e-47a3-b6c3-d5a183f5860b",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "49.String Ensemble B ÏÒÀÖºÏ×àB ",
+    "description": "String Ensemble B ÏÒÀÖºÏ×àB ",
+    "uuid": "5e18642e-ff84-4db6-83da-b76c123c0acf",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "String Ensemble B ÏÒÀÖºÏ×àB ",
+      "type": "resources",
+      "uuid": "ca35c7c4-b561-4d86-953b-316d872d07c8",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

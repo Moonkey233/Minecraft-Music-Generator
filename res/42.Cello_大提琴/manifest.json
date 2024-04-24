@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "42.Cello 大提琴 ",
+    "description": "Cello 大提琴 ",
+    "uuid": "4a159d85-fbc1-46f9-8f48-6a1ca502dc7f",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Cello 大提琴 ",
+      "type": "resources",
+      "uuid": "ac8609a9-2f41-4850-9881-3079d38217c5",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

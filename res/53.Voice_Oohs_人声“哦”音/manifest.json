@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "53.Voice Oohs ÈËÉù¡°Å¶¡±Òô ",
+    "description": "Voice Oohs ÈËÉù¡°Å¶¡±Òô ",
+    "uuid": "18bb3ec5-10fa-4b5c-8641-d361354b9ab8",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Voice Oohs ÈËÉù¡°Å¶¡±Òô ",
+      "type": "resources",
+      "uuid": "6114bd35-1746-4728-9016-b01ee808f296",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

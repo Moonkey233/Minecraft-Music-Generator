@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "54.Synth Voice 合成人声 ",
+    "description": "Synth Voice 合成人声 ",
+    "uuid": "c6b1deb6-c907-4b23-a222-60c0b6c322f2",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Synth Voice 合成人声 ",
+      "type": "resources",
+      "uuid": "41fac728-4886-44ae-999c-d5825d99080d",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

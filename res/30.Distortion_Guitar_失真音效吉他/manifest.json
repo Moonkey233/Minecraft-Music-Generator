@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "30.Distortion Guitar 失真音效吉他 ",
+    "description": "Distortion Guitar 失真音效吉他 ",
+    "uuid": "3f1824aa-e736-4c04-b912-f7cae847b6ee",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Distortion Guitar 失真音效吉他 ",
+      "type": "resources",
+      "uuid": "4514ccbb-8ba5-4712-9869-4feb9c32346f",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

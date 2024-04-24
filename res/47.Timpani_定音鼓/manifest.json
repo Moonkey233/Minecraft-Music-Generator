@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "47.Timpani ¶¨Òô¹Ä ",
+    "description": "Timpani ¶¨Òô¹Ä ",
+    "uuid": "dcc6748c-32fd-4044-aae9-195c90721c89",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Timpani ¶¨Òô¹Ä ",
+      "type": "resources",
+      "uuid": "1579e7bf-05a8-431a-8fa1-593cc64de478",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

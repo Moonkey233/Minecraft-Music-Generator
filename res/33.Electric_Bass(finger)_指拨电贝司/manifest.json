@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "33.Electric Bass(finger) 指拨电贝司 ",
+    "description": "Electric Bass(finger) 指拨电贝司 ",
+    "uuid": "df9afbc4-1cde-4d8a-9a41-0fcb42449878",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Electric Bass(finger) 指拨电贝司 ",
+      "type": "resources",
+      "uuid": "2cb5ed98-4e56-49ac-ba07-ccb346a299ea",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

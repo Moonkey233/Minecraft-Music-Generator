@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "6.Harpsichord ≤¶œ“π≈∏÷«Ÿ ",
+    "description": "Harpsichord ≤¶œ“π≈∏÷«Ÿ ",
+    "uuid": "45af3a21-2303-4f9b-b914-114877a121eb",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Harpsichord ≤¶œ“π≈∏÷«Ÿ ",
+      "type": "resources",
+      "uuid": "8cad399e-5120-4d6c-a076-12cdf5c08b64",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

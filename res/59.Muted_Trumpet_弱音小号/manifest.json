@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "59.Muted Trumpet »ı“Ù–°∫≈ ",
+    "description": "Muted Trumpet »ı“Ù–°∫≈ ",
+    "uuid": "268b61e2-1250-4aa8-9d96-b9abcd5ab886",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Muted Trumpet »ı“Ù–°∫≈ ",
+      "type": "resources",
+      "uuid": "e0de404b-e943-4ff8-8f7e-f1de45e41746",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

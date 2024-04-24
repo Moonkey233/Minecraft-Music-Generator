@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "44.Tremolo Strings орюжуПрТ ",
+    "description": "Tremolo Strings орюжуПрТ ",
+    "uuid": "e542a235-1f1b-47d1-b0f4-c52ecb0e1084",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Tremolo Strings орюжуПрТ ",
+      "type": "resources",
+      "uuid": "07d263a3-9859-4792-a475-a32276c1aa4d",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

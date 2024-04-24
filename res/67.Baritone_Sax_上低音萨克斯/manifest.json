@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "67.Baritone Sax 上低音萨克斯 ",
+    "description": "Baritone Sax 上低音萨克斯 ",
+    "uuid": "e79eab83-6933-47f5-a011-a63f32855f25",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Baritone Sax 上低音萨克斯 ",
+      "type": "resources",
+      "uuid": "be9a273d-8c8e-4679-83e3-d8f8d276de6c",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "40.Violin 小提琴 ",
+    "description": "Violin 小提琴 ",
+    "uuid": "4ae96004-eb94-43e7-841b-a8ae5cd76ffd",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Violin 小提琴 ",
+      "type": "resources",
+      "uuid": "f32c6ec1-f51d-43e6-9d83-6c4c7a841502",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "55.Orchestra Hit 乐队打击乐 ",
+    "description": "Orchestra Hit 乐队打击乐 ",
+    "uuid": "2ba9139e-0e4c-466e-a6b2-fe00b739f30f",
+    "version": [ 25, 0, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Orchestra Hit 乐队打击乐 ",
+      "type": "resources",
+      "uuid": "89170aaf-5354-444e-956b-965888f5a416",
+      "version": [ 25, 0, 0 ]
+    }
+  ]
+}
